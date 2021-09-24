@@ -7,6 +7,7 @@ Experiment with go channels. Made to resemble dice rolling mechanic in MMO's. St
 ### .env file
 
 ```
+DEBUG=true
 HOST=0.0.0.0
 PORT=3000
 MAX_NUM_SESSIONS=10
